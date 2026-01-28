@@ -1,0 +1,2 @@
+data_root: "./Data"
+models_root: "./Checkpoints"
